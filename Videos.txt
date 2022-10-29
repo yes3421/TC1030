@@ -1,0 +1,22 @@
+P 0123456789 Nombre0 55 Drama 1
+P 0123456789 Nombre1 55 Drama 1
+P 0123456789 Nombre2 55 Drama 1
+P 0123456789 Nombre3 55 Drama 1
+P 0123456789 Nombre4 55 Drama 3
+P 0123456789 Nombre5 55 Drama 3
+P 0123456789 Nombre6 55 Drama 3
+P 0123456789 Nombre7 55 Drama 3
+P 0123456789 Nombre8 55 Drama 3
+P 0123456789 Nombre9 55 Drama 3
+
+E 0123456789 Nombre00 55 Misterio 4 NombreSerie0 1
+E 0123456789 Nombre01 55 Misterio 4 NombreSerie0 1
+E 0123456789 Nombre02 55 Misterio 4 NombreSerie0 1
+E 0123456789 Nombre03 55 Misterio 4 NombreSerie0 1
+E 0123456789 Nombre04 55 Misterio 4 NombreSerie0 1
+
+E 0123456789 Nombre05 55 Accion 5 NombreSerie1 1
+E 0123456789 Nombre06 55 Accion 5 NombreSerie1 1
+E 0123456789 Nombre07 55 Accion 5 NombreSerie1 1
+E 0123456789 Nombre08 55 Accion 5 NombreSerie1 1
+E 0123456789 Nombre09 55 Accion 5 NombreSerie1 1
